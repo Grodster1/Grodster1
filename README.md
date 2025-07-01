@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**Grodster1/Grodster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Robotics and Control Engineering student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), passionate about solving real-world problems using **AI**, **robotics**, and **cutting-edge technology**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Currently diving deep into control systems, embedded programming, and machine learning.
+- 🧠 Fascinated by how AI and automation can reshape industries and everyday life.
+- 🌍 A curious traveler who loves exploring new places and cultures.
+- 📚 Part-time **math tutor**, helping high school students ace their advanced **Matura exams**.
+
+## 🧰 Tech & Tools I Use
+
+- **Languages**: Python, C++, MATLAB, 
+- **Tech**: ROS, OpenCV, TensorFlow, Arduino, STM32
+- **Other**: Git, Linux, 
+
+## 🌱 Currently Learning
+
+- Generative AI
+- Reinforcement Learning 
+- Robotics simulation 
+
+Thanks for stopping by! 🚀
