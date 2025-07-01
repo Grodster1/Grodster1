@@ -12,7 +12,7 @@
 ## 🧰 Tech & Tools I Use
 
 - **Languages**: Python, C++, MATLAB, 
-- **Tech**: ROS, OpenCV, TensorFlow, Arduino, STM32
+- **Tech**: ROS, OpenCV, TensorFlow, Altium Designer, CUDA
 - **Other**: Git, Linux, 
 
 ## 🌱 Currently Learning
