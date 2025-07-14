@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Wiktor
 
 🎓 I'm a Robotics and Control Engineering student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), passionate about solving real-world problems using **AI**, **robotics**, and **cutting-edge technology**.
 
