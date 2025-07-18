@@ -12,8 +12,8 @@
 ## 🧰 Tech & Tools I Use
 
 - **Languages**: Python, C++, MATLAB, 
-- **Tech**: ROS, OpenCV, TensorFlow, Altium Designer, CUDA
-- **Other**: Git, Linux, 
+- **Tech**: TensorFlow, PyTorch, ROS, Altium Designer, CUDA
+- **Other**: Git, Linux, Docker
 
 ## 🌱 Currently Learning
 
