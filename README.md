@@ -1,24 +1,24 @@
-# 👋 Hi there! I'm Wiktor
+# Hi, I'm Wiktor
 
-🎓 I'm a Robotics and Control Engineering student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), passionate about solving real-world problems using **AI**, **robotics**, and **cutting-edge technology**.
+I'm a Robotics and Control Engineering student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), with a strong interest in applying robotics, artificial intelligence, and modern technologies to solve real-world challenges.
 
-## 🚀 About Me
+## About Me
 
-- 🤖 Currently diving deep into control systems, embedded programming, and machine learning.
-- 🧠 Fascinated by how AI and automation can reshape industries and everyday life.
-- 🌍 A curious traveler who loves exploring new places and cultures.
-- 📚 Part-time **math tutor**, helping high school students ace their advanced **Matura exams**.
+- Currently focusing on control systems, embedded programming, and machine learning  
+- Interested in the transformative impact of AI and automation across industries  
+- Enjoy exploring new places and learning about different cultures  
+- Work part-time as a mathematics tutor, helping high school students prepare for advanced Matura exams
 
-## 🧰 Tech & Tools I Use
+## Technical Skills
 
-- **Languages**: Python, C++, MATLAB, 
-- **Tech**: TensorFlow, PyTorch, ROS, Altium Designer, CUDA
-- **Other**: Git, Linux, Docker
+- **Programming Languages**: Python, C++, MATLAB  
+- **Technologies**: TensorFlow, PyTorch, ROS, Altium Designer, CUDA  
+- **Tools**: Git, Linux, Docker
 
-## 🌱 Currently Learning
+## Currently Exploring
 
-- Generative AI
-- Reinforcement Learning 
-- Robotics simulation 
+- Generative AI  
+- Reinforcement Learning  
+- Robotics simulation and virtual testing environments
 
-Thanks for stopping by! 🚀
+Thanks for visiting. Feel free to reach out or connect if you'd like to discuss robotics, AI, or anything tech-related.
